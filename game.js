@@ -25,7 +25,7 @@ var para1 = document.querySelector("#para1");
 var para2 = document.querySelector("#para2");
 
 para1.addEventListener('mouseover', function(){
-  para1.textContent = "Didn't believe it? Try playing once";
+  para1.textContent = "Single click to put 'X', Double click for 'O' & Triple click to make blank again.";
   //para1.style.color = 'DodgerBlue';
   //para1.style.color = getRandomColor();
 })
